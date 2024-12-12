@@ -6,3 +6,4 @@ Repositorio criado durante uma aula ao vivo.
 linha adicionada direto no Site.
 
 nova alteração.
+Acabei de instalar o Github Desktop para linux.
